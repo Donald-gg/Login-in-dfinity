@@ -23,7 +23,7 @@ Hit the <span style="font-size: 16px;">&#11088;</span>
 
 
 ## Acknowledgements
- - Fellow contributer
+ - Fellow contributor
  - Angella yu
  - Internet Computer
 
